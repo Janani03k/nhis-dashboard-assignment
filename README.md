@@ -9,7 +9,7 @@ Course: IE5374 – Storytelling with Data
 
 ## **Overview**
 
-This assignment analyzes health survey data to answer three key questions related to **mental health, sleep patterns, and lifestyle factors**. The analysis uses **pivot tables** and **narrative explanations** to explore patterns by **region** and **year**.
+This dashboard analyzes health survey data to answer three key questions related to **mental health, sleep patterns, and lifestyle factors**. The analysis uses **pivot tables** and **narrative explanations** to explore patterns by **region** and **year**.
 
 ---
 
@@ -65,7 +65,7 @@ The Excel file contains the following sheets:
 
 * Open in Microsoft Excel or Google Sheets to view pivot tables and narratives.
 * Modify pivot table filters to explore specific regions, years, or conditions.
-* Use original data sheet for additional custom analysis.
+* Use the original data sheet for additional custom analysis.
 
 ---
 
@@ -76,5 +76,3 @@ The Excel file contains the following sheets:
 * Identification of top **factors keeping people awake**.
 
 ---
-
-If you want, I can also add **a polished “Summary of Findings” section** to make this README look more like a professional data storytelling deliverable. That would make it perfect for submitting.
