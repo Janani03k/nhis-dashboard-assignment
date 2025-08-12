@@ -75,4 +75,3 @@ The Excel file contains the following sheets:
 * Differences in **average sleep hours** between regions.
 * Identification of top **factors keeping people awake**.
 
----
